@@ -9,7 +9,7 @@ I'm a builder passionate about combining deep learning, physics, and engineering
 ### 🔧 Current Projects
 - **Thrombosis Simulation**
     - Using UNet models and pruning to simulate blood clotting physics.
-    - Added mixed precision, optimized memory use, and collaborated with Oxford researchers.
+    - Added mixed precision, optimized memory use, pruning to increase accuracy and thresh-holding segmentation function.
     - [Repo Link](https://github.com/Masilokwa-bantu/DL-ROM-Thrombosis) 
 
 - **SMS-to-Search & RAG Paper Reader**
