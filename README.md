@@ -1,7 +1,7 @@
 ## Hello, I'm Vincent Punabantu 👋
 
 ### About Me
-I’m a PhD student in Mechanical Engineering at the University of Cape Town. I am currently working in the Centre for Computational and Applied Mechanics (CERECAM) lab. I fix broken hearts for a living. No seriously. More acuratly I help in the process by using physics and computers to simulate cardiovascular disease.
+I’m a PhD student in Mechanical Engineering at the University of Cape Town. I am currently working in the Centre for Computational and Applied Mechanics (CERECAM) lab. I fix broken hearts for a living. No seriously. More accuratly I help in the process by using physics and computers to simulate cardiovascular disease.
 I'm a builder passionate about combining deep learning, physics, and engineering design to solve problems faced by my community (Southern Africa). I love working on projects that mix **Hardware**, **Science**, **Computers**, and **Design**.
 
 ---
